@@ -117,7 +117,7 @@ Remember that to create maps visualizations using Plotly Express, you will need 
 
   ![neighbourhood-map.png](Images/neighbourhood-map.png)
 
-,,,
+```
 ### Not included*
 #### Cost Analysis (Optional Challenge)
 
@@ -134,8 +134,7 @@ Plotly express offers a broad selection of interactive plots. In this optional c
     **Hint:** You can learn more about sunburst charts in Plotly Express in [this link](https://plotly.com/python/sunburst-charts/).
 
     ![sunburst](Images/sunburst.png)
-,,,
-
+```
 ### Dashboard
 
 Now that you have worked out all of the code and analysis, you will use the Panel library to build an interactive dashboard for all of the visualizations. There are no hard requirements for the layout of this dashboard, so use your imagination and creativity!
