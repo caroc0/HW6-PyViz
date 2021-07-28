@@ -1,4 +1,4 @@
-# Unit 6 - Pythonic Monopoly
+#HW 6 PyViz
 
 ![Toronto at night](Images/toronto.jpg)
 
