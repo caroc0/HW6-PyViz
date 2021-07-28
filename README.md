@@ -117,6 +117,8 @@ Remember that to create maps visualizations using Plotly Express, you will need 
 
   ![neighbourhood-map.png](Images/neighbourhood-map.png)
 
+,,,
+### Not included*
 #### Cost Analysis (Optional Challenge)
 
 Plotly express offers a broad selection of interactive plots. In this optional challenge section, you will use Plotly express to create a couple of plots that investors can interactively filter and explore various factors related to the house value of Toronto's neighbourhoods.
@@ -132,6 +134,7 @@ Plotly express offers a broad selection of interactive plots. In this optional c
     **Hint:** You can learn more about sunburst charts in Plotly Express in [this link](https://plotly.com/python/sunburst-charts/).
 
     ![sunburst](Images/sunburst.png)
+,,,
 
 ### Dashboard
 
