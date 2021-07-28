@@ -2,7 +2,23 @@
 
 ![Toronto at night](Images/toronto.jpg)
 
+---
 *[Photo by James Wheeler](https://www.pexels.com/@souvenirpixels?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) | [Free License](https://www.pexels.com/photo-license/)*
+
+---
+## Files
+
+* [toronto_neighbourhoods_census_data.csv](https://github.com/caroc0/HW6-PyViz/blob/main/Starter_Code/Data/toronto_neighbourhoods_census_data.csv)
+
+* [toronto_neighbourhoods_coordinates.csv](https://github.com/caroc0/HW6-PyViz/blob/main/Starter_Code/Data/toronto_neighbourhoods_coordinates.csv)
+
+* [Rental Analysis Starter Jupyter Notebook](https://github.com/caroc0/HW6-PyViz/blob/main/Starter_Code/rental_analysis1.ipynb)
+
+* [Dashboard Starter Jupyter Notebook](https://github.com/caroc0/HW6-PyViz/blob/main/Starter_Code/dashboard.ipynb)
+
+* [Instalation guide and Resources](https://github.com/caroc0/HW6-PyViz/tree/main/Supplemental)
+
+---
 
 ## Background
 
@@ -26,16 +42,6 @@ The data provided for this homework was retrieved from the following websites:
 **Note:** If you encounter technical difficulties using PyViz, refer to the troubleshooting section of the [PyViz Installation Guide](PyVizInstallationGuide.md).
 
 ---
-
-## Files
-
-* [toronto_neighbourhoods_census_data.csv](Starter_Code/Data/toronto_neighbourhoods_census_data.csv)
-
-* [toronto_neighbourhoods_coordinates.csv](Starter_Code/Data/toronto_neighbourhoods_coordinates.csv)
-
-* [Rental Analysis Starter Jupyter Notebook](Starter_Code/rental_analysis.ipynb)
-
-* [Dashboard Starter Jupyter Notebook](Starter_Code/dashboard.ipynb)
 
 ## Instructions
 
@@ -139,16 +145,5 @@ Sample Dashboard:
 
 ---
 
-### Submission
 
-* Upload two separate notebooks to Github - One for the analysis and one for the dashboard.
-
-* Write a README file to explain how to run and use your dashboard.
-
-* Submit the Github URL repository to Bootcampspot.
-
-* **Important Note:** You should not submit your Mapbox access token to Github!
-
----
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+"© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved."- Trilogy Education Services
